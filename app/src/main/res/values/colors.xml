@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="gray_bg">#D4D4D4</color>
+    <color name="gray_text">#666666</color>
+    <color name="primary">#21700C</color>
+
+
+    <color name="green">#39B527</color>
+    <color name="red">#FF0000</color>
+    <color name="judul">#8EFFC4</color>
+
+
+</resources>
